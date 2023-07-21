@@ -6,7 +6,7 @@ You've already completed the [Foundations course](https://www.theodinproject.com
 
 ### The path
 
-How is this course set up? It starts with a deeper look at the basics, just like the [Ruby Programming course](/paths/full-stack-ruby-on-rails/courses/ruby-programming) did with Ruby. You don't need to have completed the Ruby Programming course or [the Ruby on Rails course](/paths/full-stack-ruby-on-rails/courses/ruby-on-rails) to understand these basics. We won't be focusing deeply on the really basic coding items, so it will move quickly. You should, however, already have completed the [Foundations course](https://www.theodinproject.com/paths/foundations/courses/foundations) -- specifically, the [JavaScript Basics section ](https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics) -- before starting this course. 
+How is this course set up? It starts with a deeper look at the basics, just like the [Ruby Programming course](/paths/full-stack-ruby-on-rails/courses/ruby-programming) did with Ruby. You don't need to have completed the Ruby Programming course or [the Ruby on Rails course](/paths/full-stack-ruby-on-rails/courses/ruby-on-rails) to understand these basics. We won't be focusing deeply on the really basic coding items, so it will move quickly. You should, however, already have completed the [Foundations course](https://www.theodinproject.com/paths/foundations/courses/foundations) -- specifically, the [JavaScript Basics section ](https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics) -- before starting this course.
 
 The last thing you'll do is a final project which integrates everything you've learned in all the courses of this curriculum. This is the kind of project that you'll be telling employers all about and a great chance to prove that you're now, officially, a serious web developer.
 
@@ -22,3 +22,5 @@ There is a lot to cover, but this course has been broken up into bite-sized less
 4. Finally, we will include supplemental resources and other potentially useful tidbits at the end of each lesson.
 
 ### Enough talk - get learning!
+
+TESTING BRUH
